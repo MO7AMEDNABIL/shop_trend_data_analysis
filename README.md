@@ -125,3 +125,36 @@ Data Export:
 
 Cleaned dataset saved as cleaned_shopping_data.csv
 Maintained data integrity and relationships
+
+
+
+🛍️ Customer Purchase Analysis Dashboard (Power BI)
+📌 Overview
+
+This Power BI dashboard provides insights into customer demographics, purchasing behavior, product preferences, and payment methods. It helps visualize sales trends, customer loyalty, and fulfillment performance using interactive visuals.
+
+📊 Key Features
+
+Donut Charts for purchase distribution (by Category, Gender, Payment Method, Subscription Status).
+
+Bar & Column Charts for sales analysis across Locations, Seasons, and Shipping Types.
+
+KPI Cards to highlight Total Sales, Average Purchase Amount, and Active Subscriptions.
+
+Review Rating Insights to measure customer satisfaction by product category.
+
+🖼️ Design
+
+Custom background image for a modern, branded look.
+
+Color-coded visuals for better readability and comparison.
+
+Interactive filters for Category, Season, and Location.
+
+🚀 How to Use
+
+Open the .pbix file in Power BI Desktop.
+
+Navigate through different pages of the dashboard.
+
+Use slicers (filters) to explore specific customer segments.
