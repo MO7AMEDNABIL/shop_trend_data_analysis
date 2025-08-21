@@ -1,4 +1,8 @@
-Shopping Data Analysis Project
+# Shopping Data Analysis Project
+
+
+
+
 📊 Project Overview
 This project analyzes customer shopping behavior using a comprehensive dataset of 3,900 customer transactions. The analysis focuses on understanding purchase patterns, customer demographics, and identifying data quality issues through exploratory data analysis and outlier detection.
 🎯 Objectives
