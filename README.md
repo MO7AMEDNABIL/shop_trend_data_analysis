@@ -54,15 +54,6 @@ Prerequisites
 bashpip install pandas numpy matplotlib seaborn jupyter
 Installation
 
-Clone the repository:
-
-bashgit clone https://github.com/yourusername/shopping-data-analysis.git
-cd shopping-data-analysis
-
-Install required packages:
-
-bashpip install -r requirements.txt
-
 Launch Jupyter Notebook:
 
 bashjupyter notebook
